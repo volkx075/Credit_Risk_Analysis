@@ -1,4 +1,6 @@
 # Credit Risk Analysis
+**Resampling Code:** ![Credit Risk Resampling](credit_risk_resampling.ipynb)\
+**Ensemble Code:** ![Credit Risk Ensemble](credit_risk_ensemble.ipynb)
 ## Purpose
 Jill needs our help with applying machine learning to solve credit card risk. I will be using Python to run six different machine learning models. First, I will use the RandomOverSampler and SMOTE algorithms to run two different oversampling models. Next, I will run the ClusterCentroids algorithm for a undersampling model. Then I will run the SMOTEENN algorithm for a combination model. Lastly, I will run and compare BalancedRandomForestClassifier and EasyEnsembleClassifier which will reduce bias. After, running all six different machine models I will analyze the results and make a recommendation on if they should be utilized to predict credit risk.
 ## Results
