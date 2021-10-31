@@ -7,7 +7,10 @@
 ![SMOTE Oversampling](Images/SMOTE_Oversampling.PNG)
 ### Undersampling
 ![Undersampling](Images/Undersampling.PNG)
-### Combination Sampling
+### Combination (Over and Under) Sampling
+![Combination Sampling](Images/Combination_Sampling.PNG)
 ### Balanced Random Forest Classifier
+![Balanced Random Forest Classifier](Images/Balanced_Random_Forest_Classifier.PNG)
 ### Easy Ensemble AdaBoost Classifier
+![Easy Ensemble AdaBoost Classifier](Images/Easy_Ensemble_AdaBoost_Classifier.PNG)
 ## Summary
